@@ -1,2 +1,2 @@
 # hello-world
-just for learning
+This is just to learn GitHub.com
